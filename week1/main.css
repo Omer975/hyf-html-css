@@ -1,1 +1,10 @@
-
+h1{
+  text-align: center;
+  color:darkred;
+  border-style: double;
+}
+h2{
+  text-align: left;
+  color:darkred;
+  border-style: double;
+}
